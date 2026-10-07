@@ -1,4 +1,4 @@
-# NEXUS AI — 3D AI Resume Analyser & Job Searcher
+# NEXUS AI — 3D AI Resume Analyser & Job Matcher
 
 > An enterprise-grade full-stack AI web application designed in a **Black and Dark Blue 3D cyber-aesthetic**, built with **React 18**, **Java Spring Boot 3**, **Anthropic Claude API**, and **MySQL 8.0**.
 
